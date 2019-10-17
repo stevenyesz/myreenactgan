@@ -1,4 +1,4 @@
-做成随机采样的训练数据
+ok做成随机采样的训练数据
 # ReenactGAN: Learning to Reenact Faces via Boundary Transfer
 
 Created by [Wayne Wu](https://wywu.github.io/), [Yunxun Zhang](https://github.com/zyx2012) and [Ren Li](https://github.com/liren2515).
