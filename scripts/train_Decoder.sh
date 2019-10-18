@@ -1,10 +1,10 @@
-python3 train_Decoder.py \
---root_dir ./CelebV/Donald_trump/ \
+python3.5 train_Decoder.py \
+--root_dir ./CelebV/Jack_Ma_Small/ \
 --component Decoder \
 --which_model_netG deconv_unet \
 --dataset_mode aligned_face2boundary2face \
 --norm batch \
---gpu_ids 0 \
+--gpu_ids -1 \
 --batchSize 16 \
 --nThreads 32 \
 --niter 100 \
